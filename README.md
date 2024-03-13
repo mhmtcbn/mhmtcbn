@@ -1,8 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Mehmet Çoban</h1>
 
 ###
 
-<p align="left">I'm Mehmet Çoban<br><br>A passionate developer from Türkiye</p>
+<p align="left">A passionate developer from Türkiye</p>
+<p align="left"> </p>
+<p align="left"> </p>
 
 ###
 
